@@ -1,3 +1,5 @@
+--upgrade pip
+
 jupyter
 numpy
 pandas
