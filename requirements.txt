@@ -1,5 +1,3 @@
---upgrade pip
-
 jupyter
 numpy
 pandas
@@ -9,5 +7,5 @@ scikit-learn
 statsmodels
 polars
 sympy
-torch
+# torch
 openai
