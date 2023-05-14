@@ -1,0 +1,11 @@
+jupyter
+numpy
+pandas
+matplotlib
+joblib
+scikit-learn
+statsmodels
+polars
+sympy
+torch
+openai
